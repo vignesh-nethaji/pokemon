@@ -1,0 +1,4 @@
+pokemon-api/node_modules/
+pokemon-api/coverage/
+pokemon-api/logs/
+pokemon-api/package-lock.json
